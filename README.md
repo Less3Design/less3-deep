@@ -1,11 +1,10 @@
-
-![Frame 154](https://github.com/user-attachments/assets/524aedaf-f429-4c3e-a4aa-aeddddc3b482)
-
 Deep is an `Object Oriented` `Entity Component System` for the Unity game engine.
 
 Deep is **not** mega-performant, data-oriented, burst-compiled, multithreaded, cache-optomizied.....
 
-Deep is designed for ease of content creation, re-useability, any (hopefully) simplicity.
+Deep is designed for ease of content creation, re-useability, and simplicity.
+
+> Its basically like monoBehaviors, but you do it all in C# instead of the inspector.
 
 ---
 
